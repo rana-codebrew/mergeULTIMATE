@@ -1,0 +1,9 @@
+first repo and second repo 
+then the super container repo
+super repo first any commit
+
+adding the remote from the first repo
+	-git remote add -f old_repo01 <repo_URL>
+merging the repo with the super repo
+	-git merge old_repo01/master --allow-unrelated-histories
+...same process with the repo02
