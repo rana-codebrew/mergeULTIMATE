@@ -6,4 +6,5 @@ def looper(number):
 
 numberEntered = input('Enter a number : ')
 looper(numberEntered)
+# looper adding a comment to the last line
 
