@@ -4,4 +4,4 @@ def getValue(text):
 
 textEntered = raw_input('Enter some random text...')
 getValue(textEntered)
-
+# last line comment added
